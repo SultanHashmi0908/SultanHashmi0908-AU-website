@@ -1,0 +1,18 @@
+  
+<html>
+    <head>
+        <title>WELCOME TO THE RAGE</title>
+    </head>
+<img src="PageRage.jpg" alt="Page Rage" width="900" height="1022">
+
+<body>
+<h1>About us</h1>
+
+<p>We here at AU have developed an atmosphere where all inhibitions run loose. Full sends are the only acceptible send. Half sends are a sign of weakness, and are not welcome in the Thunderdome.</p>
+
+<h2>Donate to the debauchery</h2>
+
+<img src="Bernie.jpg" alt="Bernie" width="563" height="556">
+<button onclick="window.location.href = 'https://w3docs.com';">Donate Here</button>
+</body>
+</html>
